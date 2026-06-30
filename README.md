@@ -1,5 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>IoT Based Smart Safety Device for Sewage Workers 🚨<br>Sign Language Detection System using Python, OpenCV & Machine Learning 🤟<br>Full-Stack Portfolio Website & Personal Branding Projects 🌐<br><br>👯 I’m looking to collaborate on<br><br>AI/ML Projects<br><br>Web Development and Hackathon Projects 🚀<br><br>🤝 I’m looking for help with<br>Machine Learning & Deep Learning<br>Open Source Contributions 💡<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (DSA)<br>Full-Stack Development (React, Node.js, MySQL)<br>Machine Learning & Computer Vision<br><br>💬 Ask me about<br><br>Python Programming<br>Java & JDBC<br>Web Development<br>Computer Vision Projects<br>Database Management Systems<br>Hackathons & Student Projects 🎯<br><br>⚡ Fun fact<br>I love turning real-world problems into technology solutions— through AI-powered Sign Language Detection! ✨
+# 💫 About Me
+
+Hi, I'm Madhuraa, a Computer Engineering undergraduate with a strong interest in Data Analytics, Data Science, and Software Development.
+
+I enjoy working with data to uncover insights, building practical solutions to real-world problems, and continuously improving my problem-solving skills through projects and coding challenges.
+
+Currently, I'm focused on building an industry-ready portfolio with analytics projects using Python, SQL, Excel, and Power BI while strengthening my fundamentals in Machine Learning and Data Structures & Algorithms.
+
+My long-term goal is to build scalable data-driven solutions and grow into a Data Engineer.
+
+---
+
+### 🚀 Current Focus
+
+- Building end-to-end Data Analytics projects
+- Solving Data Structures & Algorithms problems
+- Exploring Machine Learning and Data Engineering
+- Contributing consistently to GitHub through practical projects
+
+---
+
+### 🏆 Highlights
+
+- Published research paper in **IJCRT** on Plant Leaf Disease Classification using MobileNetV2
+- Developed projects in Data Analytics, Machine Learning, IoT, and Web Development
+- Passionate about solving real-world problems using technology
+- Always learning by building
 
 
 ## 🌐 Socials:
